@@ -1,7 +1,7 @@
 # Mathematical Operations using Stacks and Queues
 Program that will act as a simple calculator that supports addition, subtraction, multiplication and division operators. The program operates by taking in a pair of parameters (operation and number) that are separated by a space. For example a valid entry could consist of a + followed by 4.4. This would evaluate to 4.4. If the operation and value pair "* 2" in now entered the result would evaluate to 8.8. The program will store all of the operations on a Queue. In addition to storing the operator and operand on the Queue, you must also be able to store Undo and Redo operations. These two operations will be represented by the letter 'U' for undo and the letter 'R' for redo. To evaluate all of the operations on the Queue the letter 'E' will be used. Once evaluated the Queue will be empty and ready to start a new calculation. To exit the program the letter 'X' will be used. On exit the contents of the Queue should be evaluated one last time.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/prerakpatelca/mathematicalOperationsStack/blob/master/Screen%20Shot%202020-12-26%20at%204.17.24%20PM.png)
 
 # List in order (fastest to slowest) your selection of algorithm to use when the sort contain 25 elements.  
 As per my obervation on sorting 25 elements through different algorithms 
