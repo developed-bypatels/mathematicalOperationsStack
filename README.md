@@ -7,19 +7,17 @@ As per my obervation on sorting 25 elements through different algorithms
   
   Reason behind giving this preference is it takes less compares to sort algortihms and less time in execution.
         
-        //o	List in order (fastest to slowest) your selection of algorithm to use when the sort contain 25000 elements.
-        //-     As per my obeservation on sorting 25000 elements through different algorithms
-        //              - I will use Merge Sort, Quick Sort, Bubble Sort, Insertion Sort, Selection Sort
+# List in order (fastest to slowest) your selection of algorithm to use when the sort contain 25000 elements.
+As per my obeservation on sorting 25000 elements through different algorithms
+  - My preference in selecting the algorithm for sorting is as follows: Merge Sort, Quick Sort, Bubble Sort, Insertion Sort, Selection Sort
         
-        //o	List the algorithm and the BIG O notation for that algorithm. 
-        //          - Quick Sort        = O(n log(n))
-        //          - Merge Sort        = O(n log(n))
-        //          - Bubble Sort       = O(n)
-        //          - Insertion Sort    = O(n)
-        //          - Selection Sort    = O(n^2)
+# List the algorithm and the BIG O notation for that algorithm. 
+  - Quick Sort        = O(n log(n))
+  - Merge Sort        = O(n log(n))
+  - Bubble Sort       = O(n)
+  - Insertion Sort    = O(n)
+  - Selection Sort    = O(n^2)
         
-        //o	Which algorithm has the best performance of the basic step?  Does this have any impact on your selection of fastest algorithm 
-        //      when sorting 25000 elements.
-        //          - Best Performance in sorting the most basic array was Quick Sort.
-        //          - While selecting algorithm for sorting 25000 elements the algorithm with lesser comparison and less execution speed is 
-        //              preferred where quick Sort laid behind by Merge Sort in both terms
+# Which algorithm has the best performance of the basic step?  Does this have any impact on your selection of fastest algorithm when sorting 25000 elements.
+  - Best Performance in sorting the most basic array was Quick Sort.
+  - While selecting algorithm for sorting 25000 elements the algorithm with lesser comparison and less execution speed is preferred where quick Sort laid behind by Merge Sort in both terms
